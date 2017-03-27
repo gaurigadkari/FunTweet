@@ -62,6 +62,9 @@ https://drive.google.com/file/d/0B7fB7lsZXRbQcVcwSmxoeFcxaWc/view?1.gif
 **Login Demo**
 https://drive.google.com/open?id=0B7fB7lsZXRbQanRhMTlRRXZxRlk
 
+**Compose tweet and autoadding in timeline, hidden behind toolbar**
+https://drive.google.com/open?id=0B7fB7lsZXRbQdnFqTF9JOGhqYjQ
+
 ## Notes
 
 Describe any challenges encountered while building the app.
