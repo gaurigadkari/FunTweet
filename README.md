@@ -55,7 +55,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+**Full Demo**
 https://drive.google.com/file/d/0B7fB7lsZXRbQcVcwSmxoeFcxaWc/view?1.gif
+
+
+**Login Demo**
+https://drive.google.com/open?id=0B7fB7lsZXRbQanRhMTlRRXZxRlk
 
 ## Notes
 
